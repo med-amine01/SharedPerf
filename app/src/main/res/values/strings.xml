@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPerf</string>
+    <string name="login">LOGIN</string>
+    <string name="remember">Remember my login information</string>
+    
+    <string name="name">com.dsi31.sharedperf.name</string>
+    <string name="pass">com.dsi31.sharedperf.pass</string>
+    <string name="checkbox">com.dsi31.sharedperf.checkbox</string>
+    <string name="SignUp">Sign Up</string>
+</resources>
